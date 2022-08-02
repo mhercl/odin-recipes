@@ -1,0 +1,20 @@
+body
+{background-image: url(/home/martin/repos/odin-recipes/images/kitchenpic.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+body
+{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bolder;
+color: black;
+font-size: x-large;
+}
+
+h1
+{font-weight: bolder;
+text-align: center;
+color:red;
+font-size: xx-large;}
+

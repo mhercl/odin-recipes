@@ -1,3 +1,8 @@
+#title {
+    color: black;
+    text-decoration: wavy;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -17,11 +22,6 @@ color: black;
 font-size: x-large;
 }
 
-h1
-{font-weight: bolder;
-text-align: center;
-color:red;
-font-size: xx-large;
-}
+
 
 

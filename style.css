@@ -1,3 +1,7 @@
+.body {
+  background-image: url(/home/martin/repos/odin-recipes/images/kitchenpic.jpg);
+  background-size: cover;
+}
 .topnav {
     background-color: #333;
     overflow: hidden;

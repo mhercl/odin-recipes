@@ -3,7 +3,6 @@
   background-size: cover;
 }
 .topnav {
-    background-color: #333;
     overflow: hidden;
   }
   .topnav a {
@@ -13,6 +12,7 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    color: red;
   }
   topnav a:hover {
     background-color: #ddd;
@@ -39,7 +39,7 @@ ul
 body
 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-weight: bolder;
-color: plum;
+color: black;
 font-size: x-large;
 }
 
